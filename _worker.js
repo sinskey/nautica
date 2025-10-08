@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-let serviceName = "";
-let APP_DOMAIN = "";
+let serviceName = "Nautica - Sinskey";
+let APP_DOMAIN = "sinskey.alkaida.dpdns.org";
 
 let prxIP = "";
 let cachedPrxList = [];
